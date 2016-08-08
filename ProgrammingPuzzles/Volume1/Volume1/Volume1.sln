@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volume1", "Volume1\Volume1.csproj", "{B7E8CC03-6B4E-4346-96BC-BE9BB26B404A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintConcentricRectangles", "PrintConcentricRectangles\PrintConcentricRectangles.csproj", "{B37F6615-7444-4E75-9847-BE0A1013E4AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepsProblem", "StepsProblem\StepsProblem.csproj", "{3643BBF0-12E9-491A-AD71-F823BCE57F34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B7E8CC03-6B4E-4346-96BC-BE9BB26B404A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E8CC03-6B4E-4346-96BC-BE9BB26B404A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E8CC03-6B4E-4346-96BC-BE9BB26B404A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37F6615-7444-4E75-9847-BE0A1013E4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37F6615-7444-4E75-9847-BE0A1013E4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37F6615-7444-4E75-9847-BE0A1013E4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37F6615-7444-4E75-9847-BE0A1013E4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3643BBF0-12E9-491A-AD71-F823BCE57F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3643BBF0-12E9-491A-AD71-F823BCE57F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3643BBF0-12E9-491A-AD71-F823BCE57F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3643BBF0-12E9-491A-AD71-F823BCE57F34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
